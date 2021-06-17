@@ -1,0 +1,8 @@
+h1::selection{
+	background-color:red;
+	color:yellow;
+}
+p::selection{
+	background-color:yellow;
+	color:red;
+}
